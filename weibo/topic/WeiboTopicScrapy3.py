@@ -33,7 +33,7 @@ from threading import Thread
 import pymysql
 from fake_useragent import UserAgent
 
-Cookie = '_T_WM=19915191835; XSRF-TOKEN=0459ac; WEIBOCN_FROM=1110006030; SUB=_2A25zUK-tDeRhGeFN4lsU9y7PyjmIHXVQujHlrDV6PUJbkdANLWygkW1NQ7-6uRZv-EHqzwl4XNmgZUUZohBGz5ry; SUHB=06ZV7w5EoTjCdy; SCF=Anze7S_q3LGw9BaFkuagiYENlakxeqNdyy7awdeNlkErl3k51ZFTTzyFg2gvjlDDPAf3D39P9NOOOhht0KJRVVs.; SSOLoginState=1582620669; MLOGIN=1; M_WEIBOCN_PARAMS=luicode%3D10000011%26lfid%3D102803%26uicode%3D20000174'
+Cookie = '_'
 User_Agent = ['Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0',
               'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1',
               'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36',
